@@ -45,4 +45,4 @@
 
 
 [github]: https://github.com/muratcanguzel
-<text xmlns="http://www.w3.org/2000/svg" x="41.5" y="14">Profile views</text>
+
